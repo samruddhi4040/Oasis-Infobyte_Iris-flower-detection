@@ -1,2 +1,5 @@
-# Oasis-Infobyte_Iris-flower-detection
-Python code to train a ML model that trains to learn from the measurements of Iris species and classify them. 
+Iris flower has three species : Setosa, Versicolor and Virginica, which differs according to their
+measurements. 
+Now using the provided dataset, I checked the measurements of the iris flowers according to their species. 
+My task here was to train a machine learning model that can learn from the measurements of the iris species and classify them. 
+IDE used : Jupyter notebook 
